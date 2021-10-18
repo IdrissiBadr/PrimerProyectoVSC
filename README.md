@@ -1,4 +1,4 @@
-**PRIMER PROYECTO VSC*
+**PRIMER PROYECTO VSC**
 
 *Badr Idrissi 1º Asir A*
 
